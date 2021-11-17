@@ -6,6 +6,7 @@ A workshop for algorithm practices
 ## target and arrangement
 
 leetcode 《剑指offer》 following everyday's questions.
+https://leetcode-cn.com/study-plan/lcof/?progress=mv9o30m
 
 ## daily log
 
